@@ -1,10 +1,10 @@
 ---
-title: "AI-ducation"
-subtitle: "The good, the bad and the bot-tastic"
+title: "AI and Education"
+subtitle: "Impact on Humans, Society, Thinking and Existence"
 author: 
   - name: Gerko Vink
     orcid: 0000-0001-9767-1924
-date: 18 Jun 2024
+date: 11 Nov 2024
 date-format: "D MMM YYYY"
 format: 
   revealjs:
