@@ -181,6 +181,13 @@ There is a finite number of options for dealing with generative AI in education.
 :::
 :::
 
+## AI Assessment Scale
+![](img/aias.png)
+
+::: {.footer}
+[Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The Artificial Intelligence Assessment Scale (AIAS): A framework for ethical integration of generative AI in educational assessment. Journal of University Teaching and Learning Practice, 21(06)](https://open-publishing.org/journals/index.php/jutlp/article/view/810)
+:::
+
 ## Futureproof education?
 ::: {.callout-important appearance="simple"}
 # Could it be
@@ -220,7 +227,7 @@ This does not mean that they learn more or better. It means that they can be mor
 
 The bottomline is that this learning process needs to be established before you can use add AI to it. 
 
-If genAI is replacing the thinking process, humanity may stumble into an existential crisis.
+If GenAI is replacing the thinking process, humanity may stumble into an existential crisis.
 
 # Negative Impact of AI on learning
 
