@@ -1,6 +1,6 @@
 ---
 title: "AI and Education"
-subtitle: "Impact on Humans, Society, Thinking and Existence"
+subtitle: "Impact on Humans, Society, Thinking and ... Existence"
 author: 
   - name: Gerko Vink
     orcid: 0000-0001-9767-1924
@@ -75,7 +75,7 @@ Some common examples of generative AI technologies include:
 ![](img/gpt1.png)
 
 ## What does it think it looks like?
-See @vanes2024 for much more scientific insight into AI representations
+See Karin van Es en Dennis Nguyen (2024) for much more scientific insight into AI representations
 
 ![](img/gpt2.png)
 
@@ -109,7 +109,7 @@ van Es, K., Nguyen, D. “Your friendly AI assistant”: the anthropomorphic sel
 
 ![](img/sdf3.png)
 
-## How Do AI Tools Work (in 10 steps)?
+## How Do AI Tools like LLMs Work (in 10 steps)?
 
 1. Machine learning enables computers to learn from data, identify patterns, and make decisions with varying levels of human intervention.
 2. Machine learning methods often work by means of training, for example to perform a single task or set of tasks.
@@ -123,7 +123,7 @@ van Es, K., Nguyen, D. “Your friendly AI assistant”: the anthropomorphic sel
 [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017).<br>Attention is all you need. Advances in neural information processing systems, 30.](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 :::
 
-## How Do AI Tools Work (in 10 steps)?
+## How Do AI Tools like LLMs Work (in 10 steps)?
 ::: {.columns}
 ::: {.column width="60%"}
 <br>
@@ -354,6 +354,10 @@ The rapid rise of key technologies creates friction in our current societal stru
 We need to move towards a more sustainable way of living together with *other* forms of intelligence. 
 
 This requires joint experimentation from academia, society, industry and government.
+:::
+
+::: {.callout-tip}
+Use generative AI tools to extend your capabilities, not to replace them. AI is not part of the human evolution process. 
 :::
 
 ## Towards responsible genAI use
