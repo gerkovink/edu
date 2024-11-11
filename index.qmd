@@ -262,6 +262,12 @@ Source: [https://trackingai.org/IQ]()
 [Abbas, M., Jam, F.A. & Khan, T.I. Is it harmful or helpful? Examining the causes and consequences of generative AI usage among university students. <br> Int J Educ Technol High Educ 21, 10 (2024).]( https://doi.org/10.1186/s41239-024-00444-7)
 :::
 
+## Cogito ergo sum
+
+![](img/descartes.webp)
+
+# Impact beyond learning
+
 ## Ethical impact
 
 Many people are unaware of the ethical implications of using AI tools, apart from presenting AI-generated work as your own product. 
